@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang=pt-br>
+<head>
+    <meta charset="UTF-8"/>
+    <title>Modelo de exercicio</title>
+    <link rel="stylesheet" type="text/css" href="_css/estilo.css"/>
+</head>
+
+<body>
+     <div id="interface">
+         <header id="cabecalho">
+             <hgroup>
+	       <h1>Aqui vem o titulo</h1>
+	       <h2>Exercicio feito por Roberto Schiblich</h2>
+            </hgroup>
+         </header>
+    </div>
+</body>
+</html>

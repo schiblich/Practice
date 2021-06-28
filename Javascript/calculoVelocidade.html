@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8"
+            <title>Detran</title>
+    </head>
+    <body>
+        <h1>Calculo</h1>      
+            velocidade :<input type="number" name="vel" id='textVel'><km>
+            <input type="button" value="verificar" onclick="calcular()">;
+            <div id="res">
+            <script>
+                    function calcular(textVel){
+                        let textVel = window.document.querySelector('input#textVel')
+                        let vel = Number(textVel.value)
+                        let res = window.document.querySelector('div#res')
+                        res.innerHTML = "<p><strong>A velocidade é de "${vel}"km/h"..."</strong></p>
+                        res.innerHTML += '<p>Dirja sempre com cuidado!</p>'
+                    }
+                </div>
+            </script>
+    </body>
+</html>

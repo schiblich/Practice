@@ -1,0 +1,15 @@
+function multiplicaPorDois(numeros) {
+/*
+ * Complete a função multiplicando todos os elementos
+ * do array `numeros` por dois e retornando um array
+ * com esses resultados
+ */
+   var numeros = [1,2,3,4,5,6]; var totalNum = numeros.length; var multiplicaPorDois = []; 
+ 
+       for (var indice = 0; indice < totalNum ; indice++){
+       var value = numeros[indice] * 2; multiplicaPorDois.push(value);
+       }
+    console.log(multiplicaPorDois);
+ }
+multiplicaPorDois.push(value)
+// fim do seu código
