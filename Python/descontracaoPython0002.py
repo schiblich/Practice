@@ -1,0 +1,29 @@
+elementoUm = int(input('Digite a media do numero um...'));
+elementoDois = int(input('Digite a media do numero dois...'));
+elementoTres = int(input('Digite a media do numero tres...'));
+elementoQuatro = int(input('Digite a media do numero quatro...'));
+elementoCinco = int(input('Digite a media do numero cinco...'));
+elementoSeis = int(input('Digite a media do numero seis...'));
+elementoSete = int(input('Digite a media do numero sete...'));
+elementoOito = int(input('Digite a media do numero oito...'));
+elementoNove = int(input('Digite a media do numero nove...'));
+elementoDez = int(input('Digite a media do numero dez...'));
+elementoOnze = int(input('Digite a media do numero onze...'));
+elementoDoze = int(input('Digite a media do numero doze...'));
+elementoTreze = int(input('Digite a media do numero treze...'));
+elementoQuatorze = int(input('Digite a media do numero quatorze...'));
+elementoQuinze = int(input('Digite a media do numero quinze...'));
+elementoDezesseis = int(input('Digite a media do numero dezesseis...'));
+elementoDezessete = int(input('Digite a media do numero dezessete...'));
+elementoDezoito = int(input('Digite a media do numero dezoito...'));
+elementoDezenove = int(input('Digite a media do numero dezenove...'));
+elementoVinte = int(input('Digite a media do numero vinte...'));
+elementoVinteUm = int(input('Digite a media do numero vinte e um...'));
+elementoVinteDois = int(input('Digite a media do numero Vinte e dois...'));
+elementoVinteTres = int(input('Digite a media do numero vinte e tres...'));
+elementoVinteQuatro = int(input('Digite a media do numero vinte e quatro...'));
+elementoVinteCinco = int(input('Digite a media do numero vinte e cinco...'));
+
+elementoUm = int(input('Digite a media do numero um...'));
+if elementoUm >= 6:
+    print('1');
